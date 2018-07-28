@@ -8,4 +8,9 @@ Altis Life RPG by AsYetUntitled is licensed under a [Creative Commons Attributio
        <a href="https://discord.gg/5Sz7XTc">
         <img src="https://img.shields.io/badge/Discord-Join%20chat%20→-738bd7.svg" alt="Join the chat at https://discord.gg/yfAMTFp">
     </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2FBoGuu%2FFramework?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FBoGuu%2FFramework.svg?type=shield"/></a>
 </p>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBoGuu%2FFramework.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBoGuu%2FFramework?ref=badge_large)
